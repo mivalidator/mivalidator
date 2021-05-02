@@ -38,7 +38,7 @@ Google Chrome のオープンソース版である Chromium Browser をインス
 
 [最新版](https://github.com/mivalidator/mivalidator/releases/latest) をダウンロードし、任意のディレクトリに展開してください。
 最新版は次の URL からダウンロードすることができます。
-<https://github.com/mivalidator/mivalidator/releases/latest>
+<https://github.com/mivalidator/mivalidator/releases/latest/download/mivalidator.zip>
 
 ダウンロードしたファイルを任意のディレクトリに展開してください。
 
