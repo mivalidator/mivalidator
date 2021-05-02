@@ -36,7 +36,11 @@ Google Chrome のオープンソース版である Chromium Browser をインス
 
 ## インストール方法
 
-最新版をダウンロードし、任意のディレクトリに展開してください。
+[最新版](https://github.com/mivalidator/mivalidator/releases/latest) をダウンロードし、任意のディレクトリに展開してください。
+最新版は次の URL からダウンロードすることができます。
+<https://github.com/mivalidator/mivalidator/releases/latest>
+
+ダウンロードしたファイルを任意のディレクトリに展開してください。
 
 ## アプリケーションの実行方法
 
