@@ -53,9 +53,11 @@ cd <mivalidator を展開したディレクトリ>
 bin/mivalidator
 ~~~
 
-以下のような画面が表示されれば起動に成功です。
+以下のような mivalidator アプリケーション画面が表示されれば起動に成功です。
 
-![mivalidator application](./mivalidator.png)
+| mivalidator アプリケーション |
+|-------------|
+| ![mivalidator application](./mivalidator.png) |
 
 チェックしたいページの URL を検証欄へ入力し、検証ボタンをクリックしてみてください。
 
